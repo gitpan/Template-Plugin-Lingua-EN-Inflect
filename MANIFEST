@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST				This list of files
+lib/Template/Plugin/Lingua/EN/Inflect.pm
+README
+t/00_use.t
+t/01_inflect.t
+META.yml                                Module meta-data (added by MakeMaker)
