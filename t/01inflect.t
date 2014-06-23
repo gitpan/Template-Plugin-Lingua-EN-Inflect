@@ -1,5 +1,6 @@
+#!/usr/bin/perl -w
 use strict;
-use blib;
+
 use Template::Test;
 
 test_expect(\*DATA);
