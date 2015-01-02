@@ -8,7 +8,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
-    NAME                => 'Template-Plugin-Lingua::EN::Inflect',
+    NAME                => 'Template::Plugin::Lingua::EN::Inflect',
     VERSION_FROM        => 'lib/Template/Plugin/Lingua/EN/Inflect.pm',
     ABSTRACT            => 'TT2 interface to Lingua::EN::Inflect module',
     NO_META             => 1,
